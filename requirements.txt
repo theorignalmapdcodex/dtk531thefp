@@ -1,0 +1,11 @@
+paho-mqtt
+mpu6050-raspberrypi
+adafruit-circuitpython-pct2075
+streamlit
+pandas
+seaborn
+matplotlib
+smbus
+google-generativeai
+python-dotenv
+#sqlite3 #Built-in with Python, no need to install separately
